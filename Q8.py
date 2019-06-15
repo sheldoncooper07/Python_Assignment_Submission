@@ -1,7 +1,7 @@
 #Problem7
 #!/usr/bin/python3
 
-mimport subprocess
+import subprocess
 import os
 command=input('Enter a linux command: ')
 f=open('Command.txt','a+')
