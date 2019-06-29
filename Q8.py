@@ -1,6 +1,6 @@
 #Problem7
-#!/usr/bin/python3
 
+#!/usr/bin/python3
 import subprocess
 import os
 command=input('Enter a linux command: ')
