@@ -1,5 +1,4 @@
 #Problem6
-
 #!/usr/bin/python3
 
 print('''
