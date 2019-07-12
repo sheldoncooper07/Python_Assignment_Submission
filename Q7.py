@@ -1,6 +1,5 @@
 #Problem7
 #!/usr/bin/python3
-
 print('''
 1. Create a single file
 2. Create multiple file
