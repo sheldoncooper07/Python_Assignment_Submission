@@ -1,4 +1,3 @@
-
 #QR_CODE
 
 #!/usr/bin/python3
