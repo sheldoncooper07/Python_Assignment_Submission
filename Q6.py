@@ -1,6 +1,5 @@
 #Problem6
 #!/usr/bin/python3
-
 print('''
 1. Contents of single file
 2. Contents of multiple file
